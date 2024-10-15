@@ -1,3 +1,4 @@
+0. copy .env.example create .env (mv .env.example .env)
 1. start db: docker compose up -d
 2. install package:  npm install
 3. npx prisma init
